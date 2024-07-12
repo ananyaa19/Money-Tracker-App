@@ -11,5 +11,6 @@ CSS
 Material UI
 
 Snap of the Project:
+
 <img width="959" alt="Screenshot 2024-07-12 202702" src="https://github.com/user-attachments/assets/222c5918-7ea6-4f47-9126-1a370286663d">
 
